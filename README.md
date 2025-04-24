@@ -1,10 +1,5 @@
-# 123 Zhengxing (Aiden) Yan
+# USAD Database Management System
 
-### Education
-- B.S. Computer Science / Business Administration, USC, Expected Spring 2026
-- Progressive Degree: MSCS, USC, Expected Fall 2027
-
-### Project Experience
-- USAD Club Management System, Full Code and Documentation Provided in this Repo
-- Brain Activity Recognition with Convolutional Neural Network
-- Cross-modal Image Segmentation and Synthesis in Medical Imaging
+20+ GUI designs and documentation below
+An intra-club member ranking system used to boost efficiency of members of USAD Club
+Developed individually, implemented through java, jdbc, and NetBeans, deployed locally
