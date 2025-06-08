@@ -6,5 +6,5 @@
 
 ### Project Experience
 - USAD Club Management System, Full Code and Documentation Provided in this Repo
-- Brain Activity Recognition with Convolutional Neural Network
 - Cross-modal Image Segmentation and Synthesis in Medical Imaging
+- DL Brain: Brain Activity Recognition with Convolutional Neural Network
