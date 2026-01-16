@@ -6,7 +6,7 @@
 
 ### Research Experience
 - Research Intern, USC Laboratory for Machine Learning, Health and Biomedicine
->  We are proposing a modality-specific, clinically grounded, and learnable comparison metric for medical images>
+>  We are proposing a modality-specific, clinically grounded, and learnable comparison metric for medical images
 >  Link to repository
 
 - Hyperparameter testing for GAN/pix2pix
