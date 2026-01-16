@@ -2,7 +2,7 @@
 
 ### Education
 - B.S. Computer Science / Business Administration, USC, Expected Spring 2027
-- Progressive Degree: MSCS, USC, Expected Fall 2028
+- M.S. Computer Science, USC, Expected Fall 2028
 
 ### Research Experience
 - Research Intern, USC Laboratory for Machine Learning, Health and Biomedicine
