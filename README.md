@@ -1,8 +1,10 @@
 # Zhengxing (Aiden) Yan
 
 ### Education
-- B.S. Computer Science / Business Administration, USC, Expected Spring 2027
 - M.S. Computer Science, USC, Expected Fall 2028
+- B.S. Computer Science / Business Administration, USC, Expected Spring 2027
+- B.S. Quantitative Biology, USC, Expected Spring 2027
+- Minor Mathematics, USC, Expected Spring 2027
 
 ### Research Experience
 - Research Intern, USC Laboratory for Machine Learning, Health and Biomedicine
