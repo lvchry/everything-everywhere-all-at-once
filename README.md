@@ -6,11 +6,15 @@
 - B.S. Quantitative Biology, USC, Expected Spring 2027
 - Minor Mathematics, USC, Expected Spring 2027
 
+## Industry Experience
+- Algorithm Engineer Intern, FrontierX Innovations
+> We are building Aura, a physical agent for your companion. You can personalize Aura with different skills and personas that fit your needs
+
 ### Research Experience
 - Research Intern, USC Laboratory for Machine Learning, Health and Biomedicine
 >  We are proposing a modality-specific, clinically grounded, and learnable comparison metric for medical images
 
->  Link to repository
+>  Link to [repository](https://github.com/lvchry/DisentangledSiamese)
 
 - Hyperparameter testing for GAN/pix2pix
 >  Evaluated changes in performance of medical image translation (MRI T1 <=> MRI T2) with regard to changing hyperparmeters
