@@ -1,4 +1,5 @@
 # Zhengxing (Aiden) Yan
+[Alt Profile](http://github.com/acccidentaLy)
 
 ### Education
 - M.S. Computer Science, USC, Expected Fall 2028
